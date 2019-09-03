@@ -1,0 +1,22 @@
+body{
+ color: white;
+ background-color: rgb(17, 88, 17);
+ text-align: center;
+ font-family: 'IBM Plex Sans', sans-serif;
+}
+
+h2 {
+    /* font-family: 'Cormorant', serif; */
+    font-family: 'Karla', sans-serif;
+    color: yellowgreen
+}
+
+button {
+    background-color: yellowgreen;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: black;
+    font-size: 15px;
+    border-radius: 50%;
+    padding: 10px;
+}
